@@ -5,8 +5,6 @@ description: This resource contains information on iron ore transportation in ca
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/20ab48e3c6932e2328e2a0631010f479_paper2_nh.pdf
 file_size: 898317
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

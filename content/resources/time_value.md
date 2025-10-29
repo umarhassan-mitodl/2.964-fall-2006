@@ -4,8 +4,6 @@ description: Summary of topics covered in the lecture.
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/2d9131291fff195d6fef6a3a1399998c_time_value.pdf
 file_size: 72737
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

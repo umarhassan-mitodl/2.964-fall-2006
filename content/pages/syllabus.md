@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains prerequisites, textbook and readings, assignment
   details, grading policy and calendar of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

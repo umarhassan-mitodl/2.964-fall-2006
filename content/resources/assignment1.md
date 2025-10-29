@@ -5,8 +5,6 @@ description: Description of the assignment which asks students to evaluate a bus
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/d22c2fbcea57f1272e346da8007b181e_assignment1.pdf
 file_size: 14245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

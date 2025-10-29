@@ -4,8 +4,6 @@ description: Example of a student's project presentation.
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/cc096ca72961db4a31b4c76a977252c8_paper2_pb_slides.pdf
 file_size: 1227981
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
